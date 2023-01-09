@@ -1,0 +1,13 @@
+{
+  "name": "calendar",
+  "version": "1.0.0",
+  "description": "Command line program that prints a calendar to the terminal based on todays date",
+  "main": "index.js",
+  "license": "MIT",
+  "scripts": {
+    "start": "node index"
+  },
+  "devDependencies": {
+    "prettier": "^2.8.2"
+  }
+}
